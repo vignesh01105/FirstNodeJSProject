@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "details": "Ergonomic wireless mouse with adjustable DPI.",
+    "reviews": "Smooth and responsive. Battery lasts long."
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "details": "Over-ear headphones with noise cancellation.",
+    "reviews": "Excellent sound quality and comfort."
+  },
+  {
+    "name": "USB-C Charger",
+    "details": "Fast charging USB-C wall adapter, 30W output.",
+    "reviews": "Charges my phone quickly. Compact design."
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "details": "RGB backlit mechanical keyboard with blue switches.",
+    "reviews": "Great tactile feedback. Customizable lights."
+  },
+  {
+    "name": "Smart Watch",
+    "details": "Fitness tracking smart watch with heart rate monitor.",
+    "reviews": "Tracks steps accurately. Stylish look."
+  },
+  {
+    "name": "Portable SSD",
+    "details": "1TB portable SSD with USB 3.1 connectivity.",
+    "reviews": "Super fast data transfer. Lightweight."
+  },
+  {
+    "name": "Webcam",
+    "details": "1080p HD webcam with built-in microphone.",
+    "reviews": "Clear video and audio. Easy setup."
+  },
+  {
+    "name": "Gaming Chair",
+    "details": "Adjustable gaming chair with lumbar support.",
+    "reviews": "Very comfortable for long sessions."
+  },
+  {
+    "name": "LED Desk Lamp",
+    "details": "Dimmable LED desk lamp with touch controls.",
+    "reviews": "Bright and energy efficient. Sleek design."
+  },
+  {
+    "name": "External Monitor",
+    "details": "27-inch 4K UHD external monitor with HDMI input.",
+    "reviews": "Crisp display. Great for multitasking."
+  }
+]
